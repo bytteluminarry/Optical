@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEyeTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EyeTestProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EyeTestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EyeTestUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Prescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrescriptionDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
